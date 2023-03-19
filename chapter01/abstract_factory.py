@@ -1,5 +1,5 @@
 
-# Frog game - 
+# Frog game - -
 
 class Frog:
     def __init__(self, name):
