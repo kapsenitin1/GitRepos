@@ -8,3 +8,4 @@ No merge commit
 No merge commit
 Rebase commit
 without rebase
+four rebase
