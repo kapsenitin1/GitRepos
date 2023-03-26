@@ -3,3 +3,4 @@ New line added
 added new line
 Adding new changes
 Testing new feature
+No merge commit
