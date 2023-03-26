@@ -6,3 +6,4 @@ Testing new feature
 No merge commit
 No merge commit
 No merge commit
+Rebase commit
